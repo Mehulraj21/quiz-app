@@ -1,3 +1,3 @@
                                                                        QUIZ APP
-# <p align="center">![image](https://media.geeksforgeeks.org/wp-content/uploads/20230615150133/gfg.png)
+# <p align="center">![image]("C:\Users\rajme\Downloads\QuizAppGif (1).gif")
 </p>
